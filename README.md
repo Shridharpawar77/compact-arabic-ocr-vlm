@@ -1,0 +1,1 @@
+# compact-arabic-ocr-vlm
